@@ -25,7 +25,8 @@ fpath+=( /Users/shahabkhalvati/Library/Caches/antibody/https-COLON--SLASH--SLASH
 
 ```
 
-3. add following to `~/.zshrc`
+3. run `~/.dotfiles/antibody/install.sh`
+4. add following to `~/.zshrc`
 
 ```
 export DOTFILES="$HOME/.dotfiles"
